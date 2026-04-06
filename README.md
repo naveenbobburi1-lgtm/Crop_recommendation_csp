@@ -16,7 +16,7 @@ It helps farmers make smart, data-driven decisions by analyzing parameters like 
 🚀 Installation & Setup
 
 # Clone repository 🌱 Crop Recommendation System
-git clone https://github.com/your-username/crop-recommendation-system.git
+git clone https://github.com/naveenbobburi1-lgtm/crop-recommendation-system.git
 
 # Go to project folder
 cd crop-recommendation-system
