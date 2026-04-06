@@ -1,0 +1,37 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+
+# Python environments and caches
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Flutter/Dart generated files
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/build/
+frontend/coverage/
+
+# Android generated/local files
+frontend/android/.gradle/
+frontend/android/local.properties
+
+# IDE metadata inside the Flutter project
+frontend/.idea/
+
+# Generated plugin/ephemeral files
+frontend/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+frontend/ios/Flutter/ephemeral/
+frontend/ios/Flutter/Generated.xcconfig
+frontend/ios/Flutter/flutter_export_environment.sh
+frontend/ios/Runner/GeneratedPluginRegistrant.h
+frontend/ios/Runner/GeneratedPluginRegistrant.m
+frontend/linux/flutter/ephemeral/
+frontend/macos/Flutter/ephemeral/
+frontend/windows/flutter/ephemeral/
